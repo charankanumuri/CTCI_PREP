@@ -34,7 +34,7 @@ public class ImplementingTrie {
     // like a dummy node used for traversal
     Node root;
 
-    public Trie() {
+    public ImplementingTrie() {
         root = new Node('\0');
     }
 
